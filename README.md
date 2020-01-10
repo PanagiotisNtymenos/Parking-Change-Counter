@@ -1,3 +1,5 @@
 # Parking Change Counter
 
-### My second semester assignment in assembly!
+### Count the parking's change based on user's input.
+
+#### My second semester assignment in assembly!
