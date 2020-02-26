@@ -3,3 +3,4 @@
 ### Count the parking's change based on user's input.
 
 #### My second semester assignment in assembly!
+![image](pdf/Homework-1)
